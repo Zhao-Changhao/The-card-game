@@ -1,4 +1,4 @@
-# Znightwind
+# Znightwind's course work
 Developing with C++.
 
 Syntax using C + + 19, may appear compatibility problems,
