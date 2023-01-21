@@ -1,21 +1,18 @@
-# Znightwind's course work
+# 这是一个纸牌游戏
 Developing with C++.
 
-Syntax using C + + 19, may appear compatibility problems,
-it is recommended to update their own compiler,
-use the updated syntax.
+语法使用C++19，可能会出现兼容性问题， 建议更新自己的编译器， 使用更新的语法。
 
-Implementation of playing card program kernel.
+扑克牌程序内核的实现。
 
-you can chose cards to exchangemore details are described in my code.
+您可以选择卡进行交换更多详细信息，请参阅我的代码。
 
+/*评分详情如下：
 
-/*The scoring details are as follows:
+*黑心、红心、梅花和正方形分别为4、3、2和1。
 
-*Black heart, red heart, plum blossom and square are 4, 3, 2 and 1 respectively.
+*从3到大王，依次加1点，从3点到17点。
 
-*From 3 to big king, add 1 point in turn, from 3 to 17 points.
-
-*The score is the sum of the color score and the number of points.
+*分数是颜色分数和分数的总和。
 
 */
